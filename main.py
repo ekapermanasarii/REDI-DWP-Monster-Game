@@ -1,4 +1,4 @@
-player = {'name': 'Eka', 'attack': 10, 'heal': 16, 'health': 100}
+player = {'name': 'Eka P', 'attack': 10, 'heal': 16, 'health': 100}
 monster = {'name': 'Max', 'attack': 12, 'health': 100}
 
 print('Welcome to Monster Game!!')
