@@ -1,7 +1,10 @@
 def my_function(first_name):
     print("hi, this game is called " + first_name)
-my_function("Monster game")
+my_function("Calculate the Monster attack")
 
+def calculate_monster_attack(begin, end):
+    return random.randint(begin, end)
+    
 print('-----' * 3)
 game_running =  True
 
